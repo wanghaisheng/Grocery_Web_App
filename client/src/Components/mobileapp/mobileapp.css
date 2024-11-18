@@ -1,0 +1,65 @@
+.mobile-app-container{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.mobileapp-text{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 45px;
+}
+
+.mobileapp-img-container{
+    margin-top: 20px;
+}
+
+.playstore-img{
+   margin-right: 30px; 
+   width: 200px;
+   height: 70px;
+}
+
+
+@media only screen and (max-width: 1024px){
+    .mobileapp-text{
+        font-size: 24px;
+        line-height: 40px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    .mobileapp-text{
+        font-size: 20px;
+
+        line-height: 35px;
+    }
+}
+
+@media only screen and (max-width: 720px){
+    .mobileapp-text{
+        font-size: 18px;
+        line-height: 30px;
+    }
+}
+
+@media only screen and (max-width: 540px){
+    .mobileapp-text{
+        font-size: 16px;
+        
+        line-height: 25px;
+    }
+
+    .mobileapp-img-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .playstore-img{
+        margin-right: 0px; 
+        width: 200px;
+        height: 70px;
+     }
+}

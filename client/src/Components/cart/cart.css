@@ -1,0 +1,153 @@
+.cart {
+    padding: 80px 120px;
+    min-height: calc(100vh - 308.333px);
+}
+
+.arr {
+    display: none;
+}
+
+.table-heading {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr 1fr 1fr 0.5fr;
+    font-size: 15px;
+    font-weight: 400;
+    color: gray;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.no-items-cart{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cart-item {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1.5fr 1fr 1fr 1fr 0.5fr;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.cart-item img {
+    width: 50px;
+}
+
+.cart-item-name {
+    font-size: 16px;
+}
+
+.cross{
+    cursor: pointer;
+}
+
+.cart-total-promos {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.cart-subtotal {
+    width: 430px;
+}
+
+.cart-total h6 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.total-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cart-total button {
+    padding: 10px 30px;
+    background-color: tomato;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.cart-promos p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.promo-input input {
+    width: 310px;
+    font-size: 16px;
+    padding: 10px 10px;
+    margin-right: 2px;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+.promo-input input:focus {
+    outline: none;
+}
+
+.promo-input button {
+    padding: 10px 40px;
+    color: white;
+    background-color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+@media only screen and (max-width:1024px){
+    .cart-total-promos{
+        gap: 150px;
+    }
+}
+
+@media only screen and (max-width:900px){
+    .table-heading{
+        grid-template-columns: 2fr 2fr 1.5fr 2fr 1.5fr 1fr;
+    }
+    .cart-item{
+        grid-template-columns: 2fr 2fr 1.5fr 2fr 1.5fr 1fr;
+    }
+    .cart {
+        padding: 0px 60px;
+        padding-top: 40px;
+    }
+    .cart-total-promos{
+        flex-direction: column;
+        gap:40px;
+    }
+    .cart-subtotal {
+        width: 300px;
+    }
+    .cart-item img {
+        width: 40px;
+    }
+    
+    .cart-item-name {
+        font-size: 13px;
+    }
+    .promo-input button{
+        margin-top: 10px;
+    }
+}
+
