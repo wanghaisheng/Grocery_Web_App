@@ -6,24 +6,15 @@ This project is developed as part of the *Naan Mudhalvan Program. The course is 
 
 ## Project Team
 
-<!-- | Name             | Register Number | Departemnt and Class    |Naan Mudhalvan ID                          |
-|------------------|-----------------|-------------------------|-------------------------------------------|
-| Dhineshkumar M   | 412721104012    | B.E CSE IV Year 7th Sem | 907993F6A474801BD6448EB4374621E5          |
-| Balachandar S    | 412721104007    | B.E CSE IV Year 7th Sem | A58E5EEAA518FF4BE3743FF4DEA696D0          |
-| Dayanithi M      | 412721104009    | B.E CSE IV Year 7th Sem | 2E6CCD61AB2AA0286B044A5C1C459B47          |
-| Praveenkumar M   | 412721104035    | B.E CSE IV Year 7th Sem | 63281C82F9EBA459648408F0CF6E29E9          | -->
-
-## Project Team
-
-***Team ID: NM2024TMID01910***
+***Team ID: NM2024TMID02109***
 
 | Name                 | Register Number | Naan Mudhalvan ID                         |
 |----------------------|-----------------|-------------------------------------------|
-| Paul Benjamin Felix  | 412721104033    | 907993F6A474801BD6448EB4374621E5          |
-| Mohammad Azarudeen   | 412721104027    | A58E5EEAA518FF4BE3743FF4DEA696D0          |
-| Rohith Raj           | 412721104039    | 2E6CCD61AB2AA0286B044A5C1C459B47          |
-| Moses                | 412721104029    | 63281C82F9EBA459648408F0CF6E29E9          |
-| Akash Vaishnu Dev    | 412721104004    | 6D8A91A7C1F2B3457485AB3E7D9129F4          |
+| Paul Benjamin Felix  | 412721104033    | 863C60058CB58608CC44AE4E11AC3762          |
+| Mohammad Azarudeen   | 412721104027    | DAA43C08FA7EA5C941449BBF438D56FF          |
+| Rohith Raj           | 412721104039    | 66698DC34B5DC9482B548DC9F722F79C          |
+| Moses                | 412721104029    | AB858A6B52FD38AAD034E70DDF38512D          |
+| Akash Vaishnu Dev    | 412721104004    | 7E97216E6E9296CA0E241FC5A3C552AB          |
 
 
 We are the students of *Computer Science and Engineering* (CSE) department pursuing *IV Year 7th semester.*
@@ -38,7 +29,7 @@ We are the students of *Computer Science and Engineering* (CSE) department pursu
 This online learning platform is designed to enhance student engagement and facilitate instructor-student interaction through a user-friendly, feature-rich web interface. It includes features like course enrollment, access to educational content, forum discussions, and profile management. This web app is built with the MERN stack, ensuring a seamless user experience and efficient data management.
 
 
-*Project Report:* [View the full project report (PDF)](https://drive.google.com/file/d/1z44mO4MCHXgsPL6qKflh2LBfmUAjjZPK/view?usp=drive_link)
+*Project Report:* [View the full project report (PDF)](https://drive.google.com/file/d/1AWZ0uUQzYW2UQxL1gOLbK4PbPiTygKPV/view?usp=sharing)
 
 *Demo Video:* [To view the demo video](https://drive.google.com/file/d/1Uxsi-6nVnCJHkIMTg7CFQtv2fTrNtNdR/view)
 
@@ -51,7 +42,7 @@ Follow these steps to set up the application on your local machine
 ### 1. Clone the Repository
 
 bash
-    git clone https://github.com/dk172923/online-learning-platform.git
+    git clone https://github.com/RohithRenz/
 
 
 ### 2. Navigate to the cloned repository
