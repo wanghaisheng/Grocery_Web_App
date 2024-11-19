@@ -42,13 +42,13 @@ Follow these steps to set up the application on your local machine
 ### 1. Clone the Repository
 
 bash
-    git clone https://github.com/RohithRenz/
+    git clone https://github.com/RohithRenz/Grocery_Web_App/
 
 
 ### 2. Navigate to the cloned repository
 
 bash 
-    cd online-learning-platform
+    cd onload-master
 
 
 ### 3. Configuration Settings
