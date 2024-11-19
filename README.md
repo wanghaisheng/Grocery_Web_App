@@ -65,7 +65,7 @@ bash
     npm install   # install the required packages
     npm run dev
 
-Open a browser and navigate to http://localhost:5173 to access the frontend of the application.
+Open a browser and navigate to http://localhost:3000 to access the frontend of the application.
 
 ### 5. Setting up the backend
 Open another terminal in VS Code and run the following commands to install the necessary packages and start the backend server
@@ -75,7 +75,7 @@ bash
     npm install      # install the required packages
     node server.js   # or use nodemon for automatic restarts with `nodemon server.js`
 
-The backend server will start on *PORT 5000* by default. You can adjust this setting in the .env file if needed.
+The backend server will start on *PORT 3000* by default. You can adjust this setting in the .env file if needed.
 
 ---
 
