@@ -10,8 +10,12 @@ const Moblieapp = () => {
             <h3>Tomato App</h3>
         </div>
         <div className="mobileapp-img-container">
-            <img src={assets.play_store} alt="" className='playstore-img'/>
+          <a href="https://play.google.com/store/games?hl=en&pli=1" target="_blank" rel="noopener noreferrer">
+            <img src={assets.play_store} alt="Download on Play Store" className="playstore-img" />
+          </a>
+          <a href="https://apps.apple.com/us/charts/iphone" target="_blank" rel="noopener noreferrer">
             <img src={assets.app_store} alt="" className='appstore-img' />
+          </a>
         </div>
     </div>
   )

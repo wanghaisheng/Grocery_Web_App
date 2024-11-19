@@ -148,58 +148,58 @@ export const food_list = [
         category: "Fruits & Veggies"
     }, {
         _id: "5",
-        name: "Cashew/Godambi - Whole",
+        name: "Cashew/Godambi - Whole 100g",
         image: food_5,
-        price: 14,
+        price: 250,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Grains & Massala"
     }, {
         _id: "6",
-        name: "Organic - Raw Peanuts",
+        name: "Organic - Raw Peanuts 100g",
         image: food_6,
-        price: 12,
+        price: 40,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Grains & Massala"
     }, {
         _id: "7",
-        name: "Unpolished Toor Dal",
+        name: "Unpolished Toor Dal 500g",
         image: food_7,
-        price: 20,
+        price: 150,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Grains & Massala"
     }, {
         _id: "8",
-        name: "Organic - Black Pepper",
+        name: "Organic - Black Pepper 100g",
         image: food_8,
-        price: 15,
+        price: 120,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Grains & Massala"
     }, {
         _id: "9",
         name: "Sandwich Bread",
         image: food_9,
-        price: 14,
+        price: 45,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Bakery & Dairy"
     }, {
         _id: "10",
-        name: "Butter - Pasteurized",
+        name: "Butter - Pasteurized 100g",
         image: food_10,
-        price: 22,
+        price: 80,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Bakery & Dairy"
     }, {
         _id: "11",
-        name: "Organic Malai Paneer",
+        name: "Organic Malai Paneer 200g",
         image: food_11,
-        price: 10,
+        price: 95 ,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Bakery & Dairy"
     }, {
         _id: "12",
         name: "Goodlife Slim Skimmed Milk",
         image: food_12,
-        price: 12,
+        price: 186,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Bakery & Dairy"
     },
@@ -207,85 +207,85 @@ export const food_list = [
         _id: "13",
         name: "100% Tender Coconut Water",
         image: food_13,
-        price: 12,
+        price: 137,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beverages"
     },
     {
         _id: "14",
-        name: "Diet Coke Soft Drink",
+        name: "Diet Coke Soft Drink 250L",
         image: food_14,
-        price: 18,
+        price: 85,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beverages"
     }, {
         _id: "15",
         name: "Aamras Mango Fruit Juice",
         image: food_15,
-        price: 16,
+        price: 60,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beverages"
     }, {
         _id: "16",
-        name: "Grand Filter Coffee",
+        name: "Grand Filter Coffee 250g",
         image: food_16,
-        price: 24,
+        price: 170,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beverages"
     }, {
         _id: "17",
         name: "Cup Cake",
         image: food_17,
-        price: 14,
+        price: 120,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cakes"
     }, {
         _id: "18",
         name: "Vegan Cake",
         image: food_18,
-        price: 12,
+        price: 110,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cakes"
     }, {
         _id: "19",
         name: "Butterscotch Cake",
         image: food_19,
-        price: 20,
+        price: 250,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cakes"
     }, {
         _id: "20",
         name: "Sliced Cake",
         image: food_20,
-        price: 15,
+        price: 90,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cakes"
     }, {
         _id: "21",
         name: "Cream Beauty Bathing Bar",
         image: food_21,
-        price: 14,
+        price: 190,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beauty"
     }, {
         _id: "22",
         name: "Skincare Liquid Handwash Refill",
         image: food_22,
-        price: 22,
+        price: 140,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beauty"
     }, {
         _id: "23",
         name: "Acno Fight Anti-Pimple Facewash for Acne Prone Skin",
         image: food_23,
-        price: 10,
+        price: 195,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beauty"
     }, {
         _id: "24",
         name: "Strong Teeth Anticavity Toothpaste",
         image: food_24,
-        price: 12,
+        price: 210,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Beauty"
     },
@@ -293,7 +293,7 @@ export const food_list = [
         _id: "25",
         name: "Adult Dog Food - Chicken & Liver Chunks In Gravy",
         image: food_25,
-        price: 12,
+        price: 220,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Kitchen & Pets"
     },
@@ -301,49 +301,49 @@ export const food_list = [
         _id: "26",
         name: "Medicine & Tablet Store Box - Transparent, Multipurpose",
         image: food_26,
-        price: 18,
+        price: 178,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Kitchen & Pets"
     }, {
         _id: "27",
         name: "Flat Bottom Stainless Steel Saucepan - Size 11",
         image: food_27,
-        price: 16,
+        price: 470,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Kitchen & Pets"
     }, {
         _id: "28",
         name: "Ocean Fish Adult (1+ Years) Wet Cat Food",
         image: food_28,
-        price: 24,
+        price: 240,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Kitchen & Pets"
     }, {
         _id: "29",
         name: "Dishwash Liquid - Lemon With Aloe Vera",
         image: food_29,
-        price: 14,
+        price: 120,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Household"
     }, {
         _id: "30",
-        name: "Dishwash Bar - Lemon",
+        name: "Dishwash Bar - Lemon pack of 4",
         image: food_30,
-        price: 12,
+        price: 100,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Household"
     }, {
         _id: "31",
-        name: "Nakshatra Pooja Oil",
+        name: "Nakshatra Pooja Oil pack of 5",
         image: food_31,
-        price: 20,
+        price: 650,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Household"
     }, {
         _id: "32",
-        name: "Deepam Oil",
+        name: "Deepam Oil 500l",
         image: food_32,
-        price: 15,
+        price: 160,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Household"
     }

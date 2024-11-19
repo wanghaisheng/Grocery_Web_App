@@ -12,9 +12,17 @@ const Footer = () => {
                 <p>Lorem ipsum dolor sits beatae eveniet, veniam . Repellendus possimus necessitatibus perferendis tempora molestiae iure eveniet sunt odio.</p>
             </div>
             <div className="social-media-icon">
-                <img src={assets.facebook_icon} alt="" />
-                <img src={assets.linkedin_icon} alt="" href = "" />
-                <img src={assets.twitter_icon} alt="" />
+            <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+  <img src={assets.facebook_icon} alt="Facebook" />
+</a>
+
+<a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+  <img src={assets.linkedin_icon} alt="LinkedIn" />
+</a>
+
+<a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
+  <img src={assets.twitter_icon} alt="Twitter" />
+</a>
             </div>
         </div>
         <div className="footer-info">

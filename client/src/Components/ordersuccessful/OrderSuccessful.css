@@ -1,0 +1,56 @@
+.order-success-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.order-success-message {
+  text-align: center;
+  background: #ffffff;
+  padding: 30px 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+.order-success-message h1 {
+  font-size: 2.5rem;
+  color: #28a745;
+  margin-bottom: 15px;
+}
+
+.order-success-message p {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.order-success-message button {
+  font-size: 1rem;
+  color: #fff;
+  background-color: #28a745;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.order-success-message button:hover {
+  background-color: #218838;
+}
+
+/* Add a fade-in effect */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
