@@ -41,39 +41,41 @@ Follow these steps to set up the application on your local machine
 
 ### 1. Clone the Repository
 
-bash
+```bash
     git clone https://github.com/RohithRenz/Grocery_Web_App/
-
+```
 
 ### 2. Navigate to the cloned repository
 
-bash 
+```bash 
     cd onload-master
-
+```
 
 ### 3. Configuration Settings
 Rename the environment file in the client side.
-bash
+```bash
     Rename .env.local1 to .env.local
-
+```
 
 ### 4. Setting up the frontend
 Open a new terminal in VS Code and run the following commands to install the required packages and start the frontend
 
-bash
+```bash
     cd Client
     npm install   # install the required packages
     npm run dev
+```
 
 Open a browser and navigate to http://localhost:3000 to access the frontend of the application.
 
 ### 5. Setting up the backend
 Open another terminal in VS Code and run the following commands to install the necessary packages and start the backend server
 
-bash 
+```bash 
     cd server
     npm install      # install the required packages
     node server.js   # or use nodemon for automatic restarts with `nodemon server.js`
+```
 
 The backend server will start on *PORT 3000* by default. You can adjust this setting in the .env file if needed.
 
