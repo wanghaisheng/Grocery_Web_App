@@ -31,7 +31,7 @@ This online learning platform is designed to enhance student engagement and faci
 
 *Project Report:* [View the full project report (PDF)](https://drive.google.com/file/d/1AWZ0uUQzYW2UQxL1gOLbK4PbPiTygKPV/view?usp=sharing)
 
-*Demo Video:* [To view the demo video](https://drive.google.com/file/d/1Uxsi-6nVnCJHkIMTg7CFQtv2fTrNtNdR/view)
+*Demo Video:* [To view the demo video](https://drive.google.com/file/d/1ysHNmxhADYCKCQSM2qaFS0gjCZqRcgv_/view?usp=sharing)
 
 ---
 
