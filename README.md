@@ -61,7 +61,7 @@ Rename the environment file in the client side.
 Open a new terminal in VS Code and run the following commands to install the required packages and start the frontend
 
 ```bash
-    cd Client
+    cd client
     npm install   # install the required packages
     npm run dev
 ```
