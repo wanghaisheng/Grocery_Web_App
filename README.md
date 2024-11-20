@@ -1,4 +1,4 @@
-# Naan Mudhalvan:Grocery WebApp
+# Naan Mudhalvan: Grocery WebApp
 
 This project is developed as part of the Naan Mudhalvan Program. The course is MERN Stack Powered by MongoDB (subject code: NM1042), conducted for Tagore Engineering College (College Code: 4127). This Grocery Web Application provides users with a seamless platform to browse, select, and purchase groceries online. Built using the MERN stack (MongoDB, Express, React, Node.js), the app ensures an intuitive and responsive experience for users while enabling efficient inventory and order management for administrators.
 
