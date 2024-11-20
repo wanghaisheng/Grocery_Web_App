@@ -17,7 +17,6 @@ This project is developed as part of the Naan Mudhalvan Program. The course is M
 | Akash Vaishnu Dev    | 412721104004    | 7E97216E6E9296CA0E241FC5A3C552AB          |
 
 
-We are the students of *Computer Science and Engineering* (CSE) department pursuing *IV Year 7th semester.*
 
 ---
 
