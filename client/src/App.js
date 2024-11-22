@@ -1,3 +1,5 @@
+//IMPORT ALL THE REQUIRED LIBRARIES 
+
 import './App.css';
 import { useState, useEffect } from 'react';
 import Navbar from './Components/navbar/Navbar';
