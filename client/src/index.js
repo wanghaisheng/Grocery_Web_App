@@ -1,5 +1,5 @@
 
-// IMPORT ALL THE REQUIRED 
+// IMPORT ALL THE REQUIRED libraries 
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
